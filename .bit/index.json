@@ -1,0 +1,10 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/angular"
+    },
+    "isSymlink": false,
+    "hash": "ff9bc2ee2e58fda705df24b3be15badf367346ef"
+  }
+]
